@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "geotools:block/forced_centering_pylon"
+    }
+  }
+}

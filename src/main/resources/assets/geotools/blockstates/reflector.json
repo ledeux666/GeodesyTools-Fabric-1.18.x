@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "geotools:block/reflector", "uvlock": false },
+    "facing=east":  { "model": "geotools:block/reflector", "y":  90, "uvlock": false },
+    "facing=south": { "model": "geotools:block/reflector", "y": 180, "uvlock": false },
+    "facing=west":  { "model": "geotools:block/reflector", "y": 270, "uvlock": false }
+  }
+}

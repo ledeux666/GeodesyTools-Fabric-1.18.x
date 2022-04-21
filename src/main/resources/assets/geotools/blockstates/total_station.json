@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "geotools:block/total_station", "y": 180, "uvlock": false },
+    "facing=east":  { "model": "geotools:block/total_station", "y":  270, "uvlock": false },
+    "facing=south": { "model": "geotools:block/total_station", "uvlock": false },
+    "facing=west":  { "model": "geotools:block/total_station", "y": 90, "uvlock": false }
+  }
+}

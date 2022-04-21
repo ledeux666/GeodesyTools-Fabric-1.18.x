@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "geotools:block/vertical_slab_block", "uvlock": true },
+    "facing=east":  { "model": "geotools:block/vertical_slab_block", "y":  90, "uvlock": true },
+    "facing=south": { "model": "geotools:block/vertical_slab_block", "y": 180, "uvlock": true },
+    "facing=west":  { "model": "geotools:block/vertical_slab_block", "y": 270, "uvlock": true }
+  }
+}

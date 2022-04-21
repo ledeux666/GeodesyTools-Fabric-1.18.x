@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "geotools",
+  "version": "${version}",
+
+  "name": "Geodesy Tools",
+  "description": "Add some geodesy tools =^_^=",
+  "authors": [
+    "Le_Deux, kennyass"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/geotools/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "ru.ledeux.geotools.GeoTools"
+    ],
+    "client": [
+      "ru.ledeux.geotools.client.GeoToolsClient"
+    ]
+  },
+  "mixins": [],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
